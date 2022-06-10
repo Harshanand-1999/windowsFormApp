@@ -1,0 +1,8 @@
+C:\Users\asus\source\repos\LinqWithXml\LinqWithXml\bin\Debug\LinqWithXml.exe.config
+C:\Users\asus\source\repos\LinqWithXml\LinqWithXml\bin\Debug\LinqWithXml.exe
+C:\Users\asus\source\repos\LinqWithXml\LinqWithXml\bin\Debug\LinqWithXml.pdb
+C:\Users\asus\source\repos\LinqWithXml\LinqWithXml\obj\Debug\LinqWithXml.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\LinqWithXml\LinqWithXml\obj\Debug\LinqWithXml.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\LinqWithXml\LinqWithXml\obj\Debug\LinqWithXml.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\LinqWithXml\LinqWithXml\obj\Debug\LinqWithXml.exe
+C:\Users\asus\source\repos\LinqWithXml\LinqWithXml\obj\Debug\LinqWithXml.pdb
